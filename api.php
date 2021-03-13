@@ -8,8 +8,8 @@
 	//require_once(AngelConfigrationManage.php);
 
 	//echo(AngelBroking::GenerateSession() . '<br />');
-	AngelBroking::GenerateToken();
-	//AngelBroking::GetProfile();
+	//AngelBroking::GenerateToken();
+	AngelBroking::GetProfile();
 	//AngelBroking::LogOut();
 	//AngelBroking::GetRMS();
 	//echo(AngelBroking::PlaceOrder() );
