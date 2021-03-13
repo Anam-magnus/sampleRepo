@@ -7,9 +7,9 @@
 	This is production 
 	//require_once(AngelConfigrationManage.php);
 
-	//echo(AngelBroking::GenerateSession() . '<br />');
+	echo(AngelBroking::GenerateSession() . '<br />');
 	//AngelBroking::GenerateToken();
-	AngelBroking::GetProfile();
+	//AngelBroking::GetProfile();
 	//AngelBroking::LogOut();
 	//AngelBroking::GetRMS();
 	//echo(AngelBroking::PlaceOrder() );
