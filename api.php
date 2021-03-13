@@ -4,7 +4,7 @@
 	error_reporting(E_ALL);
 	
 	require_once('AngelBroking.php');
-
+	This is production 
 	//require_once(AngelConfigrationManage.php);
 
 	//echo(AngelBroking::GenerateSession() . '<br />');
